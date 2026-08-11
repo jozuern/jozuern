@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=655&height=44&lines=Hobby%20Programmer%2C%20mostly%20for%20uni%20projects" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=655&height=44&lines=Business%20Informatics%20student;Software%20that%20talks%20to%20hardware" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 <p>
 🎓 &nbsp;<b>Business Informatics (B.Sc.)</b> at Heilbronn University of Applied Sciences<br />
-💼 &nbsp;Working student at Würth IT in <b>Unified Communications</b> - contact center flows, integrations, automation<br />
-🔧 &nbsp;Side projects where software meets hardware - microcontrollers, sensors, radio equipment<br />
+💼 &nbsp;Working student in <b>Unified Communications</b> — contact center flows, integrations, automation<br />
+🔧 &nbsp;Side projects where software meets hardware — microcontrollers, sensors, radio equipment<br />
 🚒 &nbsp;Volunteer firefighter, which is where a few of those projects come from<br />
 🌱 &nbsp;Currently learning <b>game development</b><br />
+📫 &nbsp;Reach me on <a href="https://www.linkedin.com/in/joshua-z%C3%BCrn/">LinkedIn</a>
 </p>
 
 > Most of my code lives in private and university repositories, so this profile only shows a small slice of what I actually work on.
@@ -27,8 +28,8 @@ Short movement, breathing and mindfulness sessions that adapt to your calendar, 
 `Kotlin` `Jetpack Compose` `Room` `Health Connect`
 
 **[fw_alarm](https://github.com/jozuern/fw_alarm)** — Turning a fire department pager into a push notification  
-An ESP32 watches the relay contact of a Swissphone BOSS 925 charging cradle and forwards every alert as an iOS Critical Alert, so an alarm reaches me even on silent mode.  
-`C++` `ESP32` `Bark`
+An ESP32 watches the relay contact of a Swissphone charging cradle and forwards every alert as an iOS Critical Alert, so an alarm gets through even on silent mode. What started as a two-wire hack grew into the part I find more interesting: a small PHP dashboard on a NAS that manages recipients, lets anyone mute themselves via an iPhone shortcut when they arrive at work, and watches whether the box is still alive. Along the way it picked up what a project like this actually needs — retry on network loss, replay-safe command delivery, a hardware watchdog, and a quieter volume during the weekly test alarm.  
+`C++` `ESP32` `PlatformIO` `PHP` `MIT licensed`
 
 ### 🛠️ Tech Stack
 
