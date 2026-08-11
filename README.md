@@ -10,17 +10,16 @@
 
 ### 🚀 About Me
 
-🎓 &nbsp;**Business Informatics (B.Sc.)** at Heilbronn University of Applied Sciences
+<p>
+🎓 &nbsp;<b>Business Informatics (B.Sc.)</b> at Heilbronn University of Applied Sciences<br />
+💼 &nbsp;Working student in <b>Unified Communications</b> — contact center flows, integrations, automation<br />
+🔧 &nbsp;Side projects where software meets hardware — microcontrollers, sensors, radio equipment<br />
+🚒 &nbsp;Volunteer firefighter, which is where a few of those projects come from<br />
+🌱 &nbsp;Currently learning <b>game development</b><br />
+📫 &nbsp;Reach me on <a href="https://www.linkedin.com/in/joshua-z%C3%BCrn/">LinkedIn</a>
+</p>
 
-💼 &nbsp;Working student in **Unified Communications** — building and maintaining contact center flows, integrations and automation
-
-🔧 &nbsp;I like projects where software meets the physical world — microcontrollers, sensors, radio hardware
-
-🌱 &nbsp;Currently learning **game development**
-
-🚒 &nbsp;Volunteer firefighter - which is where a few of my side projects come from
-
-> Most of my code lives in private and university repositories, so this profile shows only a small slice of what I actually work on.
+> Most of my code lives in private and university repositories, so this profile only shows a small slice of what I actually work on.
 
 ### 📌 Projects
 
@@ -42,7 +41,6 @@ An ESP32 watches the relay contact of a Swissphone BOSS 925 charging cradle and 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
@@ -51,7 +49,6 @@ An ESP32 watches the relay contact of a Swissphone BOSS 925 charging cradle and 
 <p align="left">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
