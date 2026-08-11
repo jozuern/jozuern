@@ -12,11 +12,10 @@
 
 <p>
 🎓 &nbsp;<b>Business Informatics (B.Sc.)</b> at Heilbronn University of Applied Sciences<br />
-💼 &nbsp;Working student in <b>Unified Communications</b> — contact center flows, integrations, automation<br />
-🔧 &nbsp;Side projects where software meets hardware — microcontrollers, sensors, radio equipment<br />
+💼 &nbsp;Working student at Würth IT in <b>Unified Communications</b> - contact center flows, integrations, automation<br />
+🔧 &nbsp;Side projects where software meets hardware - microcontrollers, sensors, radio equipment<br />
 🚒 &nbsp;Volunteer firefighter, which is where a few of those projects come from<br />
 🌱 &nbsp;Currently learning <b>game development</b><br />
-📫 &nbsp;Reach me on <a href="https://www.linkedin.com/in/joshua-z%C3%BCrn/">LinkedIn</a>
 </p>
 
 > Most of my code lives in private and university repositories, so this profile only shows a small slice of what I actually work on.
