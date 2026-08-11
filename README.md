@@ -12,23 +12,22 @@
 
 <p>
 🎓 &nbsp;<b>Business Informatics (B.Sc.)</b> at Heilbronn University of Applied Sciences<br />
-💼 &nbsp;Working student in <b>Unified Communications</b> — contact center flows, integrations, automation<br />
-🔧 &nbsp;Side projects where software meets hardware — microcontrollers, sensors, radio equipment<br />
+💼 &nbsp;Working student in <b>Unified Communications</b> - contact center flows, integrations, automation<br />
+🔧 &nbsp;Side projects where software meets hardware - microcontrollers, sensors, radio equipment<br />
 🚒 &nbsp;Volunteer firefighter, which is where a few of those projects come from<br />
 🌱 &nbsp;Currently learning <b>game development</b><br />
-📫 &nbsp;Reach me on <a href="https://www.linkedin.com/in/joshua-z%C3%BCrn/">LinkedIn</a>
 </p>
 
 > Most of my code lives in private and university repositories, so this profile only shows a small slice of what I actually work on.
 
 ### 📌 Projects
 
-**[MindMotion](https://jozuern.github.io/mindmotion-privacy/)** — Android wellness app for students, live on Google Play  
+**[MindMotion](https://jozuern.github.io/mindmotion-privacy/)** - Android wellness app for students, live on Google Play  
 Short movement, breathing and mindfulness sessions that adapt to your calendar, energy level and time of day. 41 activities, bilingual DE/EN, fully offline — no account, no backend, no analytics. Built with Kotlin and Jetpack Compose (Material 3), using Room, Health Connect and CalendarContract. Originally created for the Samsung *Solve for Tomorrow* competition.  
 `Kotlin` `Jetpack Compose` `Room` `Health Connect`
 
-**[fw_alarm](https://github.com/jozuern/fw_alarm)** — Turning a fire department pager into a push notification  
-An ESP32 watches the relay contact of a Swissphone charging cradle and forwards every alert as an iOS Critical Alert, so an alarm gets through even on silent mode. What started as a two-wire hack grew into the part I find more interesting: a small PHP dashboard on a NAS that manages recipients, lets anyone mute themselves via an iPhone shortcut when they arrive at work, and watches whether the box is still alive. Along the way it picked up what a project like this actually needs — retry on network loss, replay-safe command delivery, a hardware watchdog, and a quieter volume during the weekly test alarm.  
+**[fw_alarm](https://github.com/jozuern/fw_alarm)** - Turning a fire department pager into a push notification  
+An ESP32 watches the relay contact of a Swissphone charging cradle and forwards every alert as an iOS Critical Alert, so an alarm gets through even on silent mode. What started as a two-wire hack grew into the part I find more interesting: a small PHP dashboard on a NAS that manages recipients, lets anyone mute themselves via an iPhone shortcut when they arrive at work, and watches whether the box is still alive. Along the way it picked up what a project like this actually needs - retry on network loss, replay-safe command delivery, a hardware watchdog, and a quieter volume during the weekly test alarm.  
 `C++` `ESP32` `PlatformIO` `PHP` `MIT licensed`
 
 ### 🛠️ Tech Stack
