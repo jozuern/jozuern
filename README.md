@@ -18,9 +18,7 @@
 
 🌱 &nbsp;Currently learning **game development**
 
-🚒 &nbsp;Volunteer firefighter — which is where a few of my side projects come from
-
-📫 &nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/joshua-z%C3%BCrn/)
+🚒 &nbsp;Volunteer firefighter - which is where a few of my side projects come from
 
 > Most of my code lives in private and university repositories, so this profile shows only a small slice of what I actually work on.
 
