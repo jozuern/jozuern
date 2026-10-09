@@ -22,6 +22,10 @@
 
 ### 📌 Projects
 
+**[PCOptimizer](https://github.com/jozuern/PCOptimizer)** - Windows 11 optimizer that explains every change and can undo it  
+Gaming-first tuning for Windows 11, with profiles for laptops, battery life, office work, quiet PCs and older hardware. A scan runs 46 read-only checks of hardware, BIOS settings and anti-cheat requirements, and 99 tweaks are rated by their measured or disputed impact, each with sources and an explanation page in English and German. Every change is backed up and verified first, can be undone even after a restart, and the app notices when a Windows update resets one. One self-contained exe, no telemetry, currently in preview.  
+`C#` `.NET 10` `WPF` `Fluent UI` `xUnit`
+
 **[MindMotion](https://jozuern.github.io/mindmotion-privacy/)** - Android wellness app for students, live on Google Play  
 Short movement, breathing and mindfulness sessions that adapt to your calendar, energy level and time of day. 41 activities, bilingual DE/EN, fully offline — no account, no backend, no analytics. Built with Kotlin and Jetpack Compose (Material 3), using Room, Health Connect and CalendarContract. Originally created for the Samsung *Solve for Tomorrow* competition.  
 `Kotlin` `Jetpack Compose` `Room` `Health Connect`
@@ -40,6 +44,7 @@ An ESP32 watches the relay contact of a Swissphone charging cradle and forwards 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
@@ -48,6 +53,7 @@ An ESP32 watches the relay contact of a Swissphone charging cradle and forwards 
 <p align="left">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
