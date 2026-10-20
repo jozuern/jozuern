@@ -22,7 +22,7 @@
 
 ### 📌 Projects
 
-**[PCOptimizer](https://github.com/jozuern/PCOptimizer)** - Windows 11 optimizer that explains every change and can undo it  
+**[Tunero](https://github.com/jozuern/Tunero)** - Windows 11 PC optimizer that explains every change and can undo it  
 Gaming-first tuning for Windows 11, with profiles for laptops, battery life, office work, quiet PCs and older hardware. A scan runs 46 read-only checks of hardware, BIOS settings and anti-cheat requirements, and 99 tweaks are rated by their measured or disputed impact, each with sources and an explanation page in English and German. Every change is backed up and verified first, can be undone even after a restart, and the app notices when a Windows update resets one. One self-contained exe, no telemetry, currently in preview.  
 `C#` `.NET 10` `WPF` `Fluent UI` `xUnit`
 
