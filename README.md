@@ -22,8 +22,8 @@
 
 ### 📌 Projects
 
-**[Tunero](https://github.com/jozuern/Tunero)** - Windows 11 PC optimizer that explains every change and can undo it  
-Gaming-first tuning for Windows 11, with profiles for laptops, battery life, office work, quiet PCs and older hardware. A scan runs 46 read-only checks of hardware, BIOS settings and anti-cheat requirements, and 99 tweaks are rated by their measured or disputed impact, each with sources and an explanation page in English and German. Every change is backed up and verified first, can be undone even after a restart, and the app notices when a Windows update resets one. One self-contained exe, no telemetry, currently in preview.  
+**[Tunero](https://tunero.dev)** - Windows 11 PC optimizer that explains every change and can undo it  
+Gaming-first tuning for Windows 11, with profiles for laptops, battery life, office work, quiet PCs and older hardware. A scan runs 50 read-only checks of hardware, BIOS settings and anti-cheat requirements, and 236 tweaks are rated by their measured or disputed impact, each with sources and an explanation page in English and German. Every change is backed up and verified first, can be undone even after a restart, and the app notices when a Windows update resets one. It also removes preinstalled apps, keeps other apps updated and builds a debloated Windows 11 ISO. One code-signed exe, also on winget, Chocolatey and Scoop, no telemetry, open source under the GPL 3.0 ([source](https://github.com/jozuern/Tunero)).  
 `C#` `.NET 10` `WPF` `Fluent UI` `xUnit`
 
 **[MindMotion](https://jozuern.github.io/mindmotion-privacy/)** - Android wellness app for students, live on Google Play  
