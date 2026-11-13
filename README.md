@@ -23,16 +23,20 @@
 ### 📌 Projects
 
 **[Tunero](https://tunero.dev)** - Windows 11 PC optimizer that explains every change and can undo it  
-Gaming-first tuning for Windows 11, with profiles for laptops, battery life, office work, quiet PCs and older hardware. A scan runs 50 read-only checks of hardware, BIOS settings and anti-cheat requirements, and 236 tweaks are rated by their measured or disputed impact, each with sources and an explanation page in English and German. Every change is backed up and verified first, can be undone even after a restart, and the app notices when a Windows update resets one. It also removes preinstalled apps, keeps other apps updated and builds a debloated Windows 11 ISO. One code-signed exe, also on winget, Chocolatey and Scoop, no telemetry, open source under the GPL 3.0 ([source](https://github.com/jozuern/Tunero)).  
+Gaming-first tuning for Windows 11, with profiles for laptops, battery life, office work, quiet PCs and older hardware. A scan runs 50 read-only checks of hardware, BIOS settings and anti-cheat requirements, and 236 tweaks are rated by their measured or disputed impact, each with sources and an explanation page in English and German. Every setting it changes is backed up first, checked afterwards and can be undone even after a restart, and the app notices when a Windows update resets one. It also removes preinstalled apps, keeps other apps updated and builds a debloated Windows 11 ISO. One code-signed exe, also on Chocolatey and Scoop, no telemetry, open source under the GPL 3.0 ([source](https://github.com/jozuern/Tunero)).  
 `C#` `.NET 10` `WPF` `Fluent UI` `xUnit`
 
 **[MindMotion](https://jozuern.github.io/mindmotion-privacy/)** - Android wellness app for students, live on Google Play  
-Short movement, breathing and mindfulness sessions that adapt to your calendar, energy level and time of day. 41 activities, bilingual DE/EN, fully offline — no account, no backend, no analytics. Built with Kotlin and Jetpack Compose (Material 3), using Room, Health Connect and CalendarContract. Originally created for the Samsung *Solve for Tomorrow* competition.  
+Short movement, breathing and mindfulness sessions that adapt to your calendar, energy level and time of day. 41 activities, bilingual DE/EN, fully offline, with no account, no backend and no analytics. Built with Kotlin and Jetpack Compose (Material 3), using Room, Health Connect and CalendarContract. Originally created for the Samsung *Solve for Tomorrow* competition.  
 `Kotlin` `Jetpack Compose` `Room` `Health Connect`
 
 **[fw_alarm](https://github.com/jozuern/fw_alarm)** - Turning a fire department pager into a push notification  
 An ESP32 watches the relay contact of a Swissphone charging cradle and forwards every alert as an iOS Critical Alert, so an alarm gets through even on silent mode. What started as a two-wire hack grew into the part I find more interesting: a small PHP dashboard on a NAS that manages recipients, lets anyone mute themselves via an iPhone shortcut when they arrive at work, and watches whether the box is still alive. Along the way it picked up what a project like this actually needs - retry on network loss, replay-safe command delivery, a hardware watchdog, and a quieter volume during the weekly test alarm.  
 `C++` `ESP32` `PlatformIO` `PHP` `MIT licensed`
+
+**[TrafficMonitor PSU Power](https://github.com/jozuern/TrafficMonitor-PsuPower)** - The PC's power draw from the wall, right in the taskbar  
+A plugin for TrafficMonitor that estimates what the PC pulls from the socket, since most power supplies have no sensor of their own. It takes CPU and GPU power from HWiNFO64, adds voltage regulator losses and the rest of the system, and runs the result through the efficiency curve of the actual power supply. Once tuned to the hardware it lands within roughly 10 to 15 W of a wall meter. It runs inside TrafficMonitor with no extra process, threads or driver, and adapts to any build through an INI file.  
+`C++` `Windows` `HWiNFO64` `MIT licensed`
 
 ### 🛠️ Tech Stack
 
@@ -43,6 +47,7 @@ An ESP32 watches the relay contact of a Swissphone charging cradle and forwards 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -57,6 +62,8 @@ An ESP32 watches the relay contact of a Swissphone charging cradle and forwards 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
 </p>
 
 **Data & Infrastructure**
